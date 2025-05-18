@@ -30,7 +30,8 @@ Thymeleaf 템플릿을 활용해 사용자에게 따뜻한 메시지를 전달�
 
 > [http://localhost:8080](http://localhost:8080)
 
-![screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
+![screenshot]![image](https://github.com/user-attachments/assets/611c2ccd-8711-4458-b03a-8aa440ff43a2)
+
 > ✨ 브라우저에서 보여지는 운세 화면 예시 (추후 추가 가능)
 
 <br/>
