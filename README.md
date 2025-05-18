@@ -1,7 +1,3 @@
-📄 README.md
-markdown
-복사
-편집
 # 🌟 오늘의 운세 (Fortune Today)
 
 간단한 한 줄의 운세를 매일 랜덤으로 보여주는 Spring Boot 기반의 웹 서비스입니다.  
